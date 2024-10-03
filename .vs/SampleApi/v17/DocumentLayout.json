@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\norbe\\source\\repos\\SampleApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50EEED0C-AB14-4746-A0B3-8B3AE823055A}|SampleApi.csproj|c:\\users\\norbe\\source\\repos\\sampleapi\\src\\rest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50EEED0C-AB14-4746-A0B3-8B3AE823055A}|SampleApi.csproj|solutionrelative:src\\rest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50EEED0C-AB14-4746-A0B3-8B3AE823055A}|SampleApi.csproj|c:\\users\\norbe\\source\\repos\\sampleapi\\src\\graphql\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EEED0C-AB14-4746-A0B3-8B3AE823055A}|SampleApi.csproj|solutionrelative:src\\graphql\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\norbe\\source\\repos\\SampleApi\\src\\Rest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Rest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ItemType.cs",
+              "DocumentMoniker": "C:\\Users\\norbe\\source\\repos\\SampleApi\\src\\GraphQL\\ItemType.cs",
+              "RelativeDocumentMoniker": "src\\GraphQL\\ItemType.cs",
+              "ToolTip": "C:\\Users\\norbe\\source\\repos\\SampleApi\\src\\GraphQL\\ItemType.cs",
+              "RelativeToolTip": "src\\GraphQL\\ItemType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:57:43.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Rest.cs",
               "DocumentMoniker": "C:\\Users\\norbe\\source\\repos\\SampleApi\\src\\Rest.cs",
               "RelativeDocumentMoniker": "src\\Rest.cs",
               "ToolTip": "C:\\Users\\norbe\\source\\repos\\SampleApi\\src\\Rest.cs",
               "RelativeToolTip": "src\\Rest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T14:59:31.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T14:59:31.128Z"
             }
           ]
         }

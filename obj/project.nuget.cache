@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "o+FHCZ6c7A0=",
+  "dgSpecHash": "Zxd52YE+RGc=",
   "success": true,
   "projectFilePath": "C:\\Users\\norbe\\source\\repos\\SampleApi\\SampleApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\norbe\\.nuget\\packages\\graphql\\8.1.0\\graphql.8.1.0.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\graphql-parser\\9.5.0\\graphql-parser.9.5.0.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\graphql.analyzers\\8.1.0\\graphql.analyzers.8.1.0.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\graphql.microsoftdi\\8.0.2\\graphql.microsoftdi.8.0.2.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\graphql.server.transports.aspnetcore\\8.0.3\\graphql.server.transports.aspnetcore.8.0.3.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\graphql.server.ui.playground\\8.0.3\\graphql.server.ui.playground.8.0.3.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\graphql.systemtextjson\\8.1.0\\graphql.systemtextjson.8.1.0.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\microsoft.extensions.options\\2.0.0\\microsoft.extensions.options.2.0.0.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
   "logs": []
 }

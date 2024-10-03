@@ -1,4 +1,4 @@
-﻿namespace SampleApi.src;
+﻿namespace SampleApi.src.Entities;
 
 public class Item
 {

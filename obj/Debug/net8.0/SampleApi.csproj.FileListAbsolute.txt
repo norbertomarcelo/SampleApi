@@ -23,3 +23,13 @@ C:\Users\norbe\source\repos\SampleApi\obj\Debug\net8.0\refint\SampleApi.dll
 C:\Users\norbe\source\repos\SampleApi\obj\Debug\net8.0\SampleApi.pdb
 C:\Users\norbe\source\repos\SampleApi\obj\Debug\net8.0\SampleApi.genruntimeconfig.cache
 C:\Users\norbe\source\repos\SampleApi\obj\Debug\net8.0\ref\SampleApi.dll
+C:\Users\norbe\source\repos\SampleApi\obj\Debug\net8.0\SampleApi.csproj.AssemblyReference.cache
+C:\Users\norbe\source\repos\SampleApi\obj\Debug\net8.0\SampleApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\norbe\source\repos\SampleApi\obj\Debug\net8.0\SampleApi.sourcelink.json
+C:\Users\norbe\source\repos\SampleApi\bin\Debug\net8.0\GraphQL.dll
+C:\Users\norbe\source\repos\SampleApi\bin\Debug\net8.0\GraphQLParser.dll
+C:\Users\norbe\source\repos\SampleApi\bin\Debug\net8.0\GraphQL.MicrosoftDI.dll
+C:\Users\norbe\source\repos\SampleApi\bin\Debug\net8.0\GraphQL.Server.Transports.AspNetCore.dll
+C:\Users\norbe\source\repos\SampleApi\bin\Debug\net8.0\GraphQL.Server.Ui.Playground.dll
+C:\Users\norbe\source\repos\SampleApi\bin\Debug\net8.0\GraphQL.SystemTextJson.dll
+C:\Users\norbe\source\repos\SampleApi\obj\Debug\net8.0\SampleApi.csproj.Up2Date
